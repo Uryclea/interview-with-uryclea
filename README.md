@@ -28,7 +28,7 @@ If you are a front-end person, I would get a test project set up in NextJS, whic
 - Did you understand the "hard part" of the problem and craft a succinct solution? We want to know if you have the ability to find clever and functional solutions to hard problems. We are not interested in whether your code is optimized beyond broad O(n) considerations. So optimizing for number of lines of code, etc. is not meaningful to us. You can always add comments to help explain what optimizations you left out for time's sake. However, understanding `trade-offs` is.
 - Does your code exhibit high quality and logical structure? Did you adhere to abstractions? Do your classes make logical sense? Did you use good programming patterns?
 - Can you show us how to verify your solution? Does the code run, or compile? Instructions do not need to be extreme, just some way to wrap our heads around what you've done.
-- If you have any clarifying questions about your interview prompt or the interview process, please put this on Slack private channel. We do consider this as a part of evaluation and label it as `assumption_verification`.
+- If you have any clarifying questions about your interview prompt or the interview process, please put this on private Slack channel. We do consider this as a part of evaluation and label it as `assumption_verification`.
 
 ### Stuff that doesn't matter
 - Writing unit tests
