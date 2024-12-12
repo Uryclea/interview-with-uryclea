@@ -20,7 +20,7 @@ The best practice you can do is to actually just take a few hours to build a too
 
 If you are doing more ML work, you should have a strong working knowledge of Pytorch and/or Numpy. You should be able to do things like finding the argmax of a tensor along some dimension, etc. Really just standard stuff that implies that you can work "natively" in pytorch. You should also have a precise understanding of how backprop works in code as well as in theory (but we won't make you write out equations, we promise!).
 
-If you are a front-end person, I would get a test project set up in NextJS, which is the frontend framework we use. Though you will not be required to know Next as a condition for being hired, the more you know the better your chances. Note that we aren't dogmatic about frameworks -- you will have more than enough leeway to convince us out of Nuxt if you so choose. We're excited when people argue with us about technical decisions (seriously!) because it implies passion.
+If you are a front-end person, I would get a test project set up in NextJS, which is the frontend framework we use. Though you will not be required to know Next as a condition for being hired, the more you know the better your chances. Note that we aren't dogmatic about frameworks -- you will have more than enough leeway to convince us out of Next if you so choose. We're excited when people argue with us about technical decisions (seriously!) because it implies passion.
 
 ## Evaluation
 - Be yourself, and don't feel expected to have to know everything. The interview is as much about reacting as it is to knowing. We judge this part through a PRD process at the very beginning and you can call it `ideation` or `system_design`.
