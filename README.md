@@ -10,14 +10,18 @@ The process typically consists of three main stages:
 1. Initial Conversation
    - A founding team member will have an introductory call with you
    - While we often reach out to candidates directly, we welcome applications through all channels
+  
+2. Technical Screening
+   - A take-home screening based on the role.
+   - This particular repo containes screening tasks for all roles.
 
-2. On-site Technical Interview
+3. On-site Technical Interview
    - If there's strong mutual interest, we'll invite you to spend a day working with our team
    - We'll cover your travel expenses and arrange the visit at your convenience
    - The day includes hands-on technical work with our team
    - *As part of our commitment to open source, we'll donate the equivalent of one day's pay to an open-source project of your choice*
 
-3. Final Discussion
+4. Final Discussion
    - We'll review compensation and logistics
    - Since we discuss key details throughout the process, there shouldn't be any unexpected elements at this stage
 
