@@ -65,7 +65,7 @@ You're welcome to conclude the process at any point if you determine Uryclea isn
 - Clear, logical code structure and organization
 - Appropriate use of abstractions and design patterns
 - Functional implementation that can be demonstrated
-- Basic performance considerations (O(n) complexity)
+- Basic performance considerations (not specifically O(n) complexity)
 
 #### Communication
 - Asking clarifying questions via the designated Slack channel
